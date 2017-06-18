@@ -1,3 +1,7 @@
+UNIVERSIDADE FEDERAL DA FRONTEIRA SUL
+Profª Priscila
+Matéria: Algoritmos
+
 Informações
  - Desenvolvido e testado por:
       Igor Luiz Gonçalves Tomaz
